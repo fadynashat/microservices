@@ -1,0 +1,43 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\appsettings.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.deps.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.runtimeconfig.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.runtimeconfig.dev.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.RazorAssemblyInfo.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.RazorAssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.RazorTargetAssemblyInfo.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\appsettings.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.deps.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.API.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.Infrastructure.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\Employee.Infrastructure.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\obj\Debug\netcoreapp2.2\Employee.API.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\Employee.API\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb

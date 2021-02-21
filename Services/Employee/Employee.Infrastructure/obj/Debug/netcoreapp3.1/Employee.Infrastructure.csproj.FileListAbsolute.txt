@@ -1,0 +1,4 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Infrastructure\obj\Debug\netcoreapp3.1\Employee.Infrastructure.csproj.CoreCompileInputs.cache

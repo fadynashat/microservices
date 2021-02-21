@@ -1,0 +1,36 @@
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.deps.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.runtimeconfig.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.runtimeconfig.dev.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\ref\IntegrationEventLogEF.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.pdb
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.pdb
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csprojAssemblyReference.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CopyComplete
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\ref\IntegrationEventLogEF.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.pdb
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.deps.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\ref\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\bin\Debug\net5.0\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\ref\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\IntegrationEventLogEF\obj\Debug\net5.0\IntegrationEventLogEF.genruntimeconfig.cache

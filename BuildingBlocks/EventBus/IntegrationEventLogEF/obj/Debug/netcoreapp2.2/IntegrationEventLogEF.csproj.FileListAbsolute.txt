@@ -1,0 +1,45 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.deps.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.dev.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CopyComplete
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.deps.json
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.deps.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netcoreapp2.2\IntegrationEventLogEF.genruntimeconfig.cache

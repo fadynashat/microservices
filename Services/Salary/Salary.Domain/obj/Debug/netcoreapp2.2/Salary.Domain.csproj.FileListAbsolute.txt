@@ -1,0 +1,25 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.deps.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.deps.json
+G:\GAEB devops\Samples\GAEB\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.deps.json
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\netcoreapp2.2\Salary.Domain.csprojAssemblyReference.cache

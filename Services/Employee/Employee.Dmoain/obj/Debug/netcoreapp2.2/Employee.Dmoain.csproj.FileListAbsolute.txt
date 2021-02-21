@@ -1,0 +1,25 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.deps.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.deps.json
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.deps.json
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\netcoreapp2.2\Employee.Dmoain.csprojAssemblyReference.cache

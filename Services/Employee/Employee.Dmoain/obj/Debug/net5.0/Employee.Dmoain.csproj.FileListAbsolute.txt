@@ -1,0 +1,11 @@
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\net5.0\Employee.Dmoain.deps.json
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\net5.0\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\net5.0\ref\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\bin\Debug\net5.0\Employee.Dmoain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\ref\Employee.Dmoain.dll
+G:\GAEB devops\Samples\GAEB\Services\Employee\Employee.Dmoain\obj\Debug\net5.0\Employee.Dmoain.pdb

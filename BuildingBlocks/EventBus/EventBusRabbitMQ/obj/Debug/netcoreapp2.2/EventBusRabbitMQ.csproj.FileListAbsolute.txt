@@ -1,0 +1,36 @@
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.deps.json
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfo.cs
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CopyComplete
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\CQRS\28-7-2019 Salary DomainEvent\CQRSCollection\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.deps.json
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.deps.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netcoreapp2.2\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netcoreapp2.2\EventBusRabbitMQ.pdb

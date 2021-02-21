@@ -1,0 +1,44 @@
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.deps.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.dev.json
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\ref\WebHost.Customization.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.pdb
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.csprojAssemblyReference.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfoInputs.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfo.cs
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.csproj.CoreCompileInputs.cache
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\ref\WebHost.Customization.dll
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.pdb
+C:\Users\Fady\Downloads\eShopOnContainers-c09191fb78e400e7e4cd2efb6c13201f71da37b8\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.deps.json
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\ref\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.pdb
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\ref\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.pdb
+G:\GAEB devops\Samples\GAEB\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.genruntimeconfig.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.deps.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\ref\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\bin\Debug\net5.0\WebHost.Customization.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\ref\WebHost.Customization.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\WebHost.Customization\obj\Debug\net5.0\WebHost.Customization.genruntimeconfig.cache

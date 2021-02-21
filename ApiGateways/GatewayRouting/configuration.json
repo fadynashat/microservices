@@ -1,0 +1,2392 @@
+{
+ 
+  "ReRoutes": [
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/Lookup",
+      "UpstreamPathTemplate": "/api/v1/Lookup",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/v1/Lookup/{everything}",
+      "UpstreamPathTemplate": "/api/v1/Lookup/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5003
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee",
+      "UpstreamPathTemplate": "/api/Employee",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5003
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employee/{everything}",
+      "UpstreamPathTemplate": "/api/Employee/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5004
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Salary",
+      "UpstreamPathTemplate": "/api/Salary",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5004
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Salary/{everything}",
+      "UpstreamPathTemplate": "/api/Salary/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10088
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingstypeid",
+      "UpstreamPathTemplate": "/api/Buildingstypeid",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10088
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingstypeid/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingstypeid/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employeedata",
+      "UpstreamPathTemplate": "/api/Employeedata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Employeedata/{everything}",
+      "UpstreamPathTemplate": "/api/Employeedata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buildingmaindatareport",
+      "UpstreamPathTemplate": "/api/buildingmaindatareport",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/buildingmaindatareport/{everything}",
+      "UpstreamPathTemplate": "/api/buildingmaindatareport/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+    //--------------------------------------------------------------------
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10088
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingtype",
+      "UpstreamPathTemplate": "/api/Buildingtype",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10088
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingtype/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingtype/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    //----------------------------------------------------
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuilding/getall",
+      "UpstreamPathTemplate": "/api/Educationalbuilding/getall",
+      "UpstreamHttpMethod": [ "Post" ],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http",
+      "Key": "a"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuilding",
+      "UpstreamPathTemplate": "/api/Educationalbuilding",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuilding/{everything}",
+      "UpstreamPathTemplate": "/api/Educationalbuilding/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Oldbuildingname/getall",
+      "UpstreamPathTemplate": "/api/Oldbuildingname/getall",
+      "UpstreamHttpMethod": [ "Post" ],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http",
+      "Key": "b"
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Oldbuildingname",
+      "UpstreamPathTemplate": "/api/Oldbuildingname",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Oldbuildingname/{everything}",
+      "UpstreamPathTemplate": "/api/Oldbuildingname/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Hostedschool",
+      "UpstreamPathTemplate": "/api/Hostedschool",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Hostedschool/{everything}",
+      "UpstreamPathTemplate": "/api/Hostedschool/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 20042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/AccreditationdefAPI",
+      "UpstreamPathTemplate": "/api/AccreditationdefAPI",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 20042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/AccreditationdefAPI/{everything}",
+      "UpstreamPathTemplate": "/api/AccreditationdefAPI/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 20002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/EmployeeDataAPI",
+      "UpstreamPathTemplate": "/api/EmployeeDataAPI",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 20002
+        }
+      ],
+      "DownstreamPathTemplate": "/api/EmployeeDataAPI/{everything}",
+      "UpstreamPathTemplate": "/api/EmployeeDataAPI/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingeducationalschool2",
+      "UpstreamPathTemplate": "/api/Buildingeducationalschool2",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingeducationalschool2/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingeducationalschool2/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingusedingeneralpurpose",
+      "UpstreamPathTemplate": "/api/Buildingusedingeneralpurpose",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingusedingeneralpurpose/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingusedingeneralpurpose/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingperiod",
+      "UpstreamPathTemplate": "/api/Educationalbuildingperiod",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingperiod/{everything}",
+      "UpstreamPathTemplate": "/api/Educationalbuildingperiod/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationperiod",
+      "UpstreamPathTemplate": "/api/Educationperiod",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationperiod/{everything}",
+      "UpstreamPathTemplate": "/api/Educationperiod/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Level",
+      "UpstreamPathTemplate": "/api/Level",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Level/{everything}",
+      "UpstreamPathTemplate": "/api/Level/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Area",
+      "UpstreamPathTemplate": "/api/Area",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Area/{everything}",
+      "UpstreamPathTemplate": "/api/Area/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Surroundedeffect",
+      "UpstreamPathTemplate": "/api/Surroundedeffect",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Surroundedeffect/{everything}",
+      "UpstreamPathTemplate": "/api/Surroundedeffect/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Fence",
+      "UpstreamPathTemplate": "/api/Fence",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Fence/{everything}",
+      "UpstreamPathTemplate": "/api/Fence/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Gate",
+      "UpstreamPathTemplate": "/api/Gate",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Gate/{everything}",
+      "UpstreamPathTemplate": "/api/Gate/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingextentionstatment",
+      "UpstreamPathTemplate": "/api/Buildingextentionstatment",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingextentionstatment/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingextentionstatment/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingareaafterautocad",
+      "UpstreamPathTemplate": "/api/Buildingareaafterautocad",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingareaafterautocad/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingareaafterautocad/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Healthequipment",
+      "UpstreamPathTemplate": "/api/Healthequipment",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Healthequipment/{everything}",
+      "UpstreamPathTemplate": "/api/Healthequipment/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Spacearrangement",
+      "UpstreamPathTemplate": "/api/Spacearrangement",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Spacearrangement/{everything}",
+      "UpstreamPathTemplate": "/api/Spacearrangement/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingextentionspace",
+      "UpstreamPathTemplate": "/api/Buildingextentionspace",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingextentionspace/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingextentionspace/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Playground",
+      "UpstreamPathTemplate": "/api/Playground",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Playground/{everything}",
+      "UpstreamPathTemplate": "/api/Playground/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Electricconnction",
+      "UpstreamPathTemplate": "/api/Electricconnction",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Electricconnction/{everything}",
+      "UpstreamPathTemplate": "/api/Electricconnction/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Feed",
+      "UpstreamPathTemplate": "/api/Feed",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Feed/{everything}",
+      "UpstreamPathTemplate": "/api/Feed/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Gas",
+      "UpstreamPathTemplate": "/api/Gas",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Gas/{everything}",
+      "UpstreamPathTemplate": "/api/Gas/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Sanitation",
+      "UpstreamPathTemplate": "/api/Sanitation",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Sanitation/{everything}",
+      "UpstreamPathTemplate": "/api/Sanitation/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Firefightingnetwork",
+      "UpstreamPathTemplate": "/api/Firefightingnetwork",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Firefightingnetwork/{everything}",
+      "UpstreamPathTemplate": "/api/Firefightingnetwork/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Mantaincework",
+      "UpstreamPathTemplate": "/api/Mantaincework",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Mantaincework/{everything}",
+      "UpstreamPathTemplate": "/api/Mantaincework/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingcoordinate",
+      "UpstreamPathTemplate": "/api/Buildingcoordinate",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingcoordinate/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingcoordinate/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Extentionmergingstatement",
+      "UpstreamPathTemplate": "/api/Extentionmergingstatement",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Extentionmergingstatement/{everything}",
+      "UpstreamPathTemplate": "/api/Extentionmergingstatement/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Mergingschool",
+      "UpstreamPathTemplate": "/api/Mergingschool",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Mergingschool/{everything}",
+      "UpstreamPathTemplate": "/api/Mergingschool/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationbuildingpointer",
+      "UpstreamPathTemplate": "/api/Educationbuildingpointer",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationbuildingpointer/{everything}",
+      "UpstreamPathTemplate": "/api/Educationbuildingpointer/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Equipment",
+      "UpstreamPathTemplate": "/api/Equipment",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Equipment/{everything}",
+      "UpstreamPathTemplate": "/api/Equipment/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Egovernment",
+      "UpstreamPathTemplate": "/api/Egovernment",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Egovernment/{everything}",
+      "UpstreamPathTemplate": "/api/Egovernment/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Deleteeducationalbuilding",
+      "UpstreamPathTemplate": "/api/Deleteeducationalbuilding",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Deleteeducationalbuilding/{everything}",
+      "UpstreamPathTemplate": "/api/Deleteeducationalbuilding/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Cancelextention",
+      "UpstreamPathTemplate": "/api/Cancelextention",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Cancelextention/{everything}",
+      "UpstreamPathTemplate": "/api/Cancelextention/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Model",
+      "UpstreamPathTemplate": "/api/Model",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Model/{everything}",
+      "UpstreamPathTemplate": "/api/Model/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Linkmodelandlevel",
+      "UpstreamPathTemplate": "/api/Linkmodelandlevel",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Linkmodelandlevel/{everything}",
+      "UpstreamPathTemplate": "/api/Linkmodelandlevel/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Listnameinassay",
+      "UpstreamPathTemplate": "/api/Listnameinassay",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Listnameinassay/{everything}",
+      "UpstreamPathTemplate": "/api/Listnameinassay/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Reportsupdateprogram",
+      "UpstreamPathTemplate": "/api/Reportsupdateprogram",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Reportsupdateprogram/{everything}",
+      "UpstreamPathTemplate": "/api/Reportsupdateprogram/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote1",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote1",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote1/{everything}",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote1/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote2",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote2",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote2/{everything}",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote2/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote3",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote3",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Educationalbuildingnote3/{everything}",
+      "UpstreamPathTemplate": "/api/Educationalbuildingnote3/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Querylevelsupspace",
+      "UpstreamPathTemplate": "/api/Querylevelsupspace",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Querylevelsupspace/{everything}",
+      "UpstreamPathTemplate": "/api/Querylevelsupspace/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Querycompletedspace",
+      "UpstreamPathTemplate": "/api/Querycompletedspace",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Querycompletedspace/{everything}",
+      "UpstreamPathTemplate": "/api/Querycompletedspace/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Closededucationbuildingdata",
+      "UpstreamPathTemplate": "/api/Closededucationbuildingdata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10015
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Closededucationbuildingdata/{everything}",
+      "UpstreamPathTemplate": "/api/Closededucationbuildingdata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+
+
+
+
+    /////////////////////////////////////////////////////Land //////////////////////////////////////
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landboundrydata",
+      "UpstreamPathTemplate": "/api/Landboundrydata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landboundrydata/{everything}",
+      "UpstreamPathTemplate": "/api/Landboundrydata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Purchasepositiondata",
+      "UpstreamPathTemplate": "/api/Purchasepositiondata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Purchasepositiondata/{everything}",
+      "UpstreamPathTemplate": "/api/Purchasepositiondata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landdeliveryfollow",
+      "UpstreamPathTemplate": "/api/Landdeliveryfollow",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landdeliveryfollow/{everything}",
+      "UpstreamPathTemplate": "/api/Landdeliveryfollow/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Obstaclesresiveland",
+      "UpstreamPathTemplate": "/api/Obstaclesresiveland",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Obstaclesresiveland/{everything}",
+      "UpstreamPathTemplate": "/api/Obstaclesresiveland/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Committeereceivedland",
+      "UpstreamPathTemplate": "/api/Committeereceivedland",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Committeereceivedland/{everything}",
+      "UpstreamPathTemplate": "/api/Committeereceivedland/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Basicdatacommittee",
+      "UpstreamPathTemplate": "/api/Basicdatacommittee",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Basicdatacommittee/{everything}",
+      "UpstreamPathTemplate": "/api/Basicdatacommittee/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Basicdatacommitteework",
+      "UpstreamPathTemplate": "/api/Basicdatacommitteework",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Basicdatacommitteework/{everything}",
+      "UpstreamPathTemplate": "/api/Basicdatacommitteework/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Committeememberdata",
+      "UpstreamPathTemplate": "/api/Committeememberdata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Committeememberdata/{everything}",
+      "UpstreamPathTemplate": "/api/Committeememberdata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landoldowner",
+      "UpstreamPathTemplate": "/api/Landoldowner",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landoldowner/{everything}",
+      "UpstreamPathTemplate": "/api/Landoldowner/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Usedstate",
+      "UpstreamPathTemplate": "/api/Usedstate",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Usedstate/{everything}",
+      "UpstreamPathTemplate": "/api/Usedstate/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landgeneralboundary",
+      "UpstreamPathTemplate": "/api/Landgeneralboundary",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landgeneralboundary/{everything}",
+      "UpstreamPathTemplate": "/api/Landgeneralboundary/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landboundaryleveldata",
+      "UpstreamPathTemplate": "/api/Landboundaryleveldata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landboundaryleveldata/{everything}",
+      "UpstreamPathTemplate": "/api/Landboundaryleveldata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landhistoricalboundry",
+      "UpstreamPathTemplate": "/api/Landhistoricalboundry",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landhistoricalboundry/{everything}",
+      "UpstreamPathTemplate": "/api/Landhistoricalboundry/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Facilitydata",
+      "UpstreamPathTemplate": "/api/Facilitydata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Facilitydata/{everything}",
+      "UpstreamPathTemplate": "/api/Facilitydata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Specifynotedata",
+      "UpstreamPathTemplate": "/api/Specifynotedata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Specifynotedata/{everything}",
+      "UpstreamPathTemplate": "/api/Specifynotedata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Constructionrestrictiondata",
+      "UpstreamPathTemplate": "/api/Constructionrestrictiondata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Constructionrestrictiondata/{everything}",
+      "UpstreamPathTemplate": "/api/Constructionrestrictiondata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Constructionrestrictiondata2",
+      "UpstreamPathTemplate": "/api/Constructionrestrictiondata2",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Constructionrestrictiondata2/{everything}",
+      "UpstreamPathTemplate": "/api/Constructionrestrictiondata2/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Datadocument",
+      "UpstreamPathTemplate": "/api/Datadocument",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Datadocument/{everything}",
+      "UpstreamPathTemplate": "/api/Datadocument/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Datadocument2",
+      "UpstreamPathTemplate": "/api/Datadocument2",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Datadocument2/{everything}",
+      "UpstreamPathTemplate": "/api/Datadocument2/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Custmizedecisiondocument",
+      "UpstreamPathTemplate": "/api/Custmizedecisiondocument",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Custmizedecisiondocument/{everything}",
+      "UpstreamPathTemplate": "/api/Custmizedecisiondocument/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Networkbudgetdata",
+      "UpstreamPathTemplate": "/api/Networkbudgetdata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Networkbudgetdata/{everything}",
+      "UpstreamPathTemplate": "/api/Networkbudgetdata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Networkbudgetnotesdata",
+      "UpstreamPathTemplate": "/api/Networkbudgetnotesdata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Networkbudgetnotesdata/{everything}",
+      "UpstreamPathTemplate": "/api/Networkbudgetnotesdata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Revisioncommiteenote",
+      "UpstreamPathTemplate": "/api/Revisioncommiteenote",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Revisioncommiteenote/{everything}",
+      "UpstreamPathTemplate": "/api/Revisioncommiteenote/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Linklandandlaw",
+      "UpstreamPathTemplate": "/api/Linklandandlaw",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Linklandandlaw/{everything}",
+      "UpstreamPathTemplate": "/api/Linklandandlaw/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Coordinatedata",
+      "UpstreamPathTemplate": "/api/Coordinatedata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Coordinatedata/{everything}",
+      "UpstreamPathTemplate": "/api/Coordinatedata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingmaindata",
+      "UpstreamPathTemplate": "/api/Buildingmaindata",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Buildingmaindata/{everything}",
+      "UpstreamPathTemplate": "/api/Buildingmaindata/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Areastandard",
+      "UpstreamPathTemplate": "/api/Areastandard",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Areastandard/{everything}",
+      "UpstreamPathTemplate": "/api/Areastandard/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Governorclaimsdatafrom",
+      "UpstreamPathTemplate": "/api/Governorclaimsdatafrom",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Governorclaimsdatafrom/{everything}",
+      "UpstreamPathTemplate": "/api/Governorclaimsdatafrom/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Accreditationdef",
+      "UpstreamPathTemplate": "/api/Accreditationdef",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Accreditationdef/{everything}",
+      "UpstreamPathTemplate": "/api/Accreditationdef/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landputtedinplan",
+      "UpstreamPathTemplate": "/api/Landputtedinplan",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landputtedinplan/{everything}",
+      "UpstreamPathTemplate": "/api/Landputtedinplan/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landpiececodedef",
+      "UpstreamPathTemplate": "/api/Landpiececodedef",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landpiececodedef/{everything}",
+      "UpstreamPathTemplate": "/api/Landpiececodedef/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landpiececodevalidity",
+      "UpstreamPathTemplate": "/api/Landpiececodevalidity",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landpiececodevalidity/{everything}",
+      "UpstreamPathTemplate": "/api/Landpiececodevalidity/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landrefusedreson",
+      "UpstreamPathTemplate": "/api/Landrefusedreson",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    },
+
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10042
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Landrefusedreson/{everything}",
+      "UpstreamPathTemplate": "/api/Landrefusedreson/{everything}",
+      "UpstreamHttpMethod": [],
+      "ReRouteIsCaseSensitive": false,
+      "DownstreamScheme": "http"
+    }
+
+    /////////////////////////////////////////////////////////////////END Land/////////////////////////
+  ]
+}

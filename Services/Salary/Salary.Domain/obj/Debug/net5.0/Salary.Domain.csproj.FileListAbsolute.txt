@@ -1,0 +1,11 @@
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\net5.0\Salary.Domain.deps.json
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\net5.0\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\net5.0\ref\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\bin\Debug\net5.0\Salary.Domain.pdb
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\ref\Salary.Domain.dll
+G:\GAEB devops\Samples\GAEB\Services\Salary\Salary.Domain\obj\Debug\net5.0\Salary.Domain.pdb

@@ -1,0 +1,31 @@
+D:\Work\GAEB_Backend\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+D:\Work\GAEB_Backend\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+D:\Work\GAEB_Backend\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+D:\Work\GAEB_Backend\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+D:\Work\GAEB_Backend\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+D:\Work\GAEB_Backend\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\appsettings.json
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\configuration.json
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+G:\GAEB devops\Samples\GAEB\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb
+G:\GAEB devops\Samples\GAEB\Gateway\obj\Debug\netcoreapp2.2\Gateway.genruntimeconfig.cache

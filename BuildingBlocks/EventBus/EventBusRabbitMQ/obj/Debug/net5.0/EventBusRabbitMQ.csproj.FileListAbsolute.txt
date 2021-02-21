@@ -1,0 +1,15 @@
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.deps.json
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\ref\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\EventBusRabbitMQ.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\EventBus.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\net5.0\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.csproj.CopyComplete
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\ref\EventBusRabbitMQ.dll
+G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\net5.0\EventBusRabbitMQ.pdb

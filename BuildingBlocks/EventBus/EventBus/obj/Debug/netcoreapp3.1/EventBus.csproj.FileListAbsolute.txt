@@ -1,0 +1,9 @@
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.deps.json
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.dll
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\bin\Debug\netcoreapp3.1\EventBus.pdb
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.csprojAssemblyReference.cache
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfoInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.AssemblyInfo.cs
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.csproj.CoreCompileInputs.cache
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.dll
+G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\netcoreapp3.1\EventBus.pdb
