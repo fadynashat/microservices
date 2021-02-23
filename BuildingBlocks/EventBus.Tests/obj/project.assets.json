@@ -6574,7 +6574,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
-      "sha512": "2eZu6IP+etFVBBFUFzw2w6J21DqIN5eL9Y8r8JfJWUmV28Z5P0SNU01oCisVHQgHsDhHPnmq2s1hJrJCFZWloQ==",
+      "sha512": "L/MJ7QnJMs2pJh5BR4W1Ku7zMYrq+tP1ELwXEbkmegUlLb/uvlzzARBsX4qY2HBXJYllaMZpPVptr7pCOo2OxQ==",
       "type": "package",
       "path": "system.xml.xmldocument/4.0.1",
       "files": [

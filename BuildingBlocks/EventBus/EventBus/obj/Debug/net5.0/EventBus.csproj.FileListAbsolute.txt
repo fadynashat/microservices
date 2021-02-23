@@ -10,14 +10,3 @@ G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\net5.0\EventBus.csproj.C
 G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\net5.0\EventBus.dll
 G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\net5.0\ref\EventBus.dll
 G:\GAEB devops\Samples\GAEB\EventBus\EventBus\obj\Debug\net5.0\EventBus.pdb
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\bin\Debug\net5.0\EventBus.deps.json
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\bin\Debug\net5.0\EventBus.dll
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\bin\Debug\net5.0\ref\EventBus.dll
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\bin\Debug\net5.0\EventBus.pdb
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfoInputs.cache
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.AssemblyInfo.cs
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.csproj.CoreCompileInputs.cache
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.dll
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\ref\EventBus.dll
-G:\GAEB devops\Samples\GAEB\BuildingBlocks\EventBus\EventBus\obj\Debug\net5.0\EventBus.pdb

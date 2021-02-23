@@ -71,6 +71,7 @@ namespace WebStatus
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
+               
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapHealthChecks("/liveness", new HealthCheckOptions
                 {

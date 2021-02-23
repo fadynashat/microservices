@@ -7,9 +7,7 @@ namespace FADY.Services.Salary.Dmoain.AggregatesModel.SalaryAggregate
 {
     public class salary : Entity, IAggregateRoot
     {
-        private int v1;
-        private double v2;
-
+  
         public int EmpId { get;  set; }
         public double Sal { get;  set; }
 

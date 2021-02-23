@@ -1,0 +1,21 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcEmployee";
+
+package EmployeeApi;
+
+service EmployeeGrpc {
+	rpc CreateEmployeeSalaryData(CreateEmployeeSalaryCommand) returns (EmployeeSalaryData) {}
+}
+
+message CreateEmployeeSalaryCommand {
+	int32 EmpId = 1;
+     double salary = 2;
+}
+
+message EmployeeSalaryData {
+    int32 EmpId = 1;
+    double salary  = 2;
+}
+
+

@@ -32,6 +32,7 @@ using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using System.IdentityModel.Tokens.Jwt;
+using GrpcEmployee;
 
 namespace FADY.Services.Employee.API
 {
@@ -49,7 +50,11 @@ namespace FADY.Services.Employee.API
         public virtual IServiceProvider ConfigureServices(IServiceCollection services)
         {
             services
-               
+                  .AddGrpc(options =>
+                  {
+                      options.EnableDetailedErrors = true;
+                  })
+                .Services
                 .AddApplicationInsights(Configuration)
                 .AddCustomMvc()
                 .AddHealthChecks(Configuration)
@@ -71,7 +76,7 @@ namespace FADY.Services.Employee.API
         }
 
 
-        public void Configure(IApplicationBuilder app,  ILoggerFactory loggerFactory)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             //loggerFactory.AddAzureWebAppDiagnostics();
             //loggerFactory.AddApplicationInsights(app.ApplicationServices, LogLevel.Trace);
@@ -98,9 +103,23 @@ namespace FADY.Services.Employee.API
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapGrpcService<EmployeeService>();
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapControllers();
-               
+                endpoints.MapGet("/_proto/", async ctx =>
+                {
+                    ctx.Response.ContentType = "text/plain";
+                    using var fs = new FileStream(Path.Combine(env.ContentRootPath, "Proto", "employee.proto"), FileMode.Open, FileAccess.Read);
+                    using var sr = new StreamReader(fs);
+                    while (!sr.EndOfStream)
+                    {
+                        var line = await sr.ReadLineAsync();
+                        if (line != "/* >>" || line != "<< */")
+                        {
+                            await ctx.Response.WriteAsync(line);
+                        }
+                    }
+                });
                 endpoints.MapHealthChecks("/hc", new HealthCheckOptions()
                 {
                     Predicate = _ => true,

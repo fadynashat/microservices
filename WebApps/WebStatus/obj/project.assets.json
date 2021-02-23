@@ -6120,7 +6120,7 @@
       ]
     },
     "System.Diagnostics.Process/4.3.0": {
-      "sha512": "J0wOX07+QASQblsfxmIMFc9Iq7KTXYL3zs2G/Xc704Ylv3NpuVdo6gij6V3PGiptTxqsK0K7CdXenRvKUnkA2g==",
+      "sha512": "u/6g4GDYocUfptRgovxjkZnczoZdl+HsR4B3SI+rxJpNY9b74C/6UixThcx2qmkXnYmjx2XmRzbBQnK0KSHOFg==",
       "type": "package",
       "path": "system.diagnostics.process/4.3.0",
       "files": [
@@ -6925,7 +6925,7 @@
       ]
     },
     "System.Net.NameResolution/4.3.0": {
-      "sha512": "AFYl08R7MrsrEjqpQWTZWBadqXyTzNDaWpMqyxhb0d6sGhV6xMDKueuBXlLL30gz+DIRY6MpdgnHWlCh5wmq9w==",
+      "sha512": "i4FQK4bHA9puGekKJ4R7JqaRT8h9fQoNgNqTP9vzxvGoUJ/9evWYpczTmiMc47Fyd978l2NjMHKuq1YJevWaQg==",
       "type": "package",
       "path": "system.net.nameresolution/4.3.0",
       "files": [
@@ -8945,7 +8945,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.3.0": {
-      "sha512": "k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
+      "sha512": "nTFZhGXhESYtOx34fso4m1gE8+3F7PSROo9C9DP4YbeT6HrQ7ImsQKUg8/6C9AWKmsI0eyFIeuBivgx99hduIQ==",
       "type": "package",
       "path": "system.threading.threadpool/4.3.0",
       "files": [

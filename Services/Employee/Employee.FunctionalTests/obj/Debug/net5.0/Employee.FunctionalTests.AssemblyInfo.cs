@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.API", "Employee.API.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.Dmoain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.Dmoain", "Employee.Dmoain.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.Infrastructure", "Employee.Infrastructure.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.UnitTests", "Employee.UnitTests.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("EventBus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\EventBus", "EventBus.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("EventBusRabbitMQ, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\EventBusRabbitMQ", "EventBusRabbitMQ.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("IntegrationEventLogEF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\IntegrationEventLogEF", "IntegrationEventLogEF.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.API", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.API", "Employee.API.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.Dmoain", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.Dmoain", "Employee.Dmoain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.Infrastructure", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.Infrastructure", "Employee.Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Employee.UnitTests", "G:\\GAEB devops\\Samples\\GAEB\\Services\\Employee\\Employee.UnitTests", "Employee.UnitTests.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("EventBus", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\EventBus", "EventBus.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("EventBusRabbitMQ", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\EventBusRabbitMQ", "EventBusRabbitMQ.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("IntegrationEventLogEF", "G:\\GAEB devops\\Samples\\GAEB\\BuildingBlocks\\EventBus\\IntegrationEventLogEF", "IntegrationEventLogEF.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Employee.FunctionalTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
