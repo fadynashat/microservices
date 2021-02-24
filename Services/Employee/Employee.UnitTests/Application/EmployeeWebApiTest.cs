@@ -41,11 +41,11 @@ namespace UnitTest.Employee.Application
             _identityServiceMock.Setup(x => x.GetUserIdentity())
                 .Returns(Guid.NewGuid().ToString());
 
-             _employeeQueriesMock.Setup(x => x.GetEmployeeAsync(new Random().Next(1, 100000)));
+             _employeeQueriesMock.Setup(x => x.GetAllEmployeeAsync());
 
             //Act
             var employeeController = new EmployeeController(_mediatorMock.Object, _employeeQueriesMock.Object, _identityServiceMock.Object, _loggerMock.Object);
-            var actionResult= await employeeController.Get(1);
+            var actionResult= await employeeController.Get();
 
             //Assert
             Assert.Equal((actionResult as OkObjectResult).StatusCode, (int)System.Net.HttpStatusCode.OK);

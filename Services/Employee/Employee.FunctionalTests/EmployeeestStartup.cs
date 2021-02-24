@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace Employee.FunctionalTests
+namespace FADY.Services.Employee.FunctionalTests
 {
     public class EmployeeTestsStartup : Startup
     {

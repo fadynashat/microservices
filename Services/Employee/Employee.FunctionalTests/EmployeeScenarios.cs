@@ -1,5 +1,6 @@
 ﻿using FADY.Services.Employee.Dmoain.AggregatesModel.EmployeeAggregate;
 using Newtonsoft.Json;
+using System;
 using System.Net;
 using System.Net.Http;
 using System.Text;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 using Xunit;
 
-namespace Employee.FunctionalTests
+namespace FADY.Services.Employee.FunctionalTests
 {
     public class EmployeeScenarios
         : EmployeeScenarioBase
@@ -62,9 +63,11 @@ namespace Employee.FunctionalTests
         {
             using (var server = CreateServer())
             {
+                server.BaseAddress = new Uri("http://localhost:5003/");
+
                 var content = new StringContent(BuildgoodEmployee(), UTF8Encoding.UTF8, "application/json");
                 var response = await server.CreateIdempotentClient()
-                    .PutAsync(Post.Employees, content);
+                    .PostAsync(Post.Employees, content);
 
                 Assert.Equal(HttpStatusCode.OK, response.StatusCode);
             }
@@ -79,11 +82,14 @@ namespace Employee.FunctionalTests
         }
         string BuildgoodEmployee()
         {
-            var emp = new Employe()
-            {
-                //fill correct data
-            };
-            return JsonConvert.SerializeObject(emp);
+            var _random = new Random();
+            var identity = _random.Next(1, 10000000);
+
+            var name = "fady";
+            var address = new Address("el-shorta street", "assuit", "egypt");
+ 
+            var goodemp = new Employe(identity, name, address, "01208844875");
+            return JsonConvert.SerializeObject(goodemp);
         }
     }
 }

@@ -32,7 +32,7 @@ namespace GrpcEmployee
                 createEmployeeSalaryCommand.EmpId,
                 createEmployeeSalaryCommand);
 
-            var command = new CreateEmployeeSalaryCommand( createEmployeeSalaryCommand.EmpId);
+           // var command = new CreateEmployeeSalaryCommand( createEmployeeSalaryCommand.EmpId);
 
 
             //var data; //=// await _mediator.Send(command);

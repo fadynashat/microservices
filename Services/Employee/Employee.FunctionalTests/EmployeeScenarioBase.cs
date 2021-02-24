@@ -10,9 +10,9 @@ using Microsoft.Extensions.Options;
 using System.IO;
 using System.Reflection;
 using FADY.Employee.API;
-using FADY.Employee.API.Infrastructure;
+using FADY.Services.Employee.API.Infrastructure;
 
-namespace Employee.FunctionalTests
+namespace FADY.Services.Employee.FunctionalTests
 {
     public class EmployeeScenarioBase
     {

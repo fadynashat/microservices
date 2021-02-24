@@ -246,24 +246,24 @@ namespace FADY.Services.Employee.API
                     Version = "v1",
                     Description = "The Employee Service HTTP API"
                 });
-                //options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
-                //{
-                //    Type = SecuritySchemeType.OAuth2,
-                //    Flows = new OpenApiOAuthFlows()
-                //    {
-                //        Implicit = new OpenApiOAuthFlow()
-                //        {
-                //            AuthorizationUrl = new Uri($"{configuration.GetValue<string>("IdentityUrlExternal")}/connect/authorize"),
-                //            TokenUrl = new Uri($"{configuration.GetValue<string>("IdentityUrlExternal")}/connect/token"),
-                //            Scopes = new Dictionary<string, string>()
-                //            {
-                //                { "employee", "Employee API" }
-                //            }
-                //        }
-                //    }
-                //});
+                options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
+                {
+                    Type = SecuritySchemeType.OAuth2,
+                    Flows = new OpenApiOAuthFlows()
+                    {
+                        Implicit = new OpenApiOAuthFlow()
+                        {
+                            AuthorizationUrl = new Uri($"{configuration.GetValue<string>("IdentityUrlExternal")}/connect/authorize"),
+                            TokenUrl = new Uri($"{configuration.GetValue<string>("IdentityUrlExternal")}/connect/token"),
+                            Scopes = new Dictionary<string, string>()
+                            {
+                                { "employee", "Employee API" }
+                            }
+                        }
+                    }
+                });
 
-                //options.OperationFilter<AuthorizeCheckOperationFilter>();
+               // options.OperationFilter<AuthorizeCheckOperationFilter>();
             });
 
             return services;

@@ -2,7 +2,7 @@
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Employee.FunctionalTests
+namespace FADY.Services.Employee.FunctionalTests
 {
     class AutoAuthorizeMiddleware
     {

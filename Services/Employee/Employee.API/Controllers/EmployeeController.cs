@@ -39,6 +39,7 @@ namespace FADY.Services.Employee.API.Controllers
 
         // GET api/values
         [HttpGet]
+        [ProducesResponseType(typeof(IEnumerable<Employe>), (int)HttpStatusCode.OK)]
         public async Task<ActionResult> Get()
         {
             var result = await _employeeQueries.GetAllEmployeeAsync();
