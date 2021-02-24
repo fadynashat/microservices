@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GAEB devops\\Samples\\GAEB\\GatewayAggregator\\GatewayAggregator.csproj": {}
+    "G:\\GAEB devops\\Samples\\GAEB\\ApiGateways\\GatewayAggregator\\GatewayAggregator.csproj": {}
   },
   "projects": {
-    "G:\\GAEB devops\\Samples\\GAEB\\GatewayAggregator\\GatewayAggregator.csproj": {
+    "G:\\GAEB devops\\Samples\\GAEB\\ApiGateways\\GatewayAggregator\\GatewayAggregator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GAEB devops\\Samples\\GAEB\\GatewayAggregator\\GatewayAggregator.csproj",
+        "projectUniqueName": "G:\\GAEB devops\\Samples\\GAEB\\ApiGateways\\GatewayAggregator\\GatewayAggregator.csproj",
         "projectName": "GatewayAggregator",
-        "projectPath": "G:\\GAEB devops\\Samples\\GAEB\\GatewayAggregator\\GatewayAggregator.csproj",
+        "projectPath": "G:\\GAEB devops\\Samples\\GAEB\\ApiGateways\\GatewayAggregator\\GatewayAggregator.csproj",
         "packagesPath": "C:\\Users\\Fady\\.nuget\\packages\\",
-        "outputPath": "G:\\GAEB devops\\Samples\\GAEB\\GatewayAggregator\\obj\\",
+        "outputPath": "G:\\GAEB devops\\Samples\\GAEB\\ApiGateways\\GatewayAggregator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,7 +9,7 @@ public class EmployeeAggregateTest
     { }
 
     [Fact]
-    public void Create_employee_item_success()
+    public void Create_employee_success()
     {
 
         //Arrange  

@@ -11,10 +11,6 @@ namespace Employee.UnitTests.Domain.SeedWork
     {
         public ValueObjectTests()
         { }
-
-   
-  
-     
         private class ComplexObject : IEquatable<ComplexObject>
         {
             public ComplexObject(int a, string b)

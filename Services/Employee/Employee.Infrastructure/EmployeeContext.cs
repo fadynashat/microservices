@@ -23,7 +23,7 @@ namespace FADY.Services.Employee.Infrastructure
         private readonly IMediator _mediator;
         private IDbContextTransaction _currentTransaction;
 
-        private EmployeeContext(DbContextOptions<EmployeeContext> options) : base(options) { }
+        public EmployeeContext(DbContextOptions<EmployeeContext> options) : base(options) { }
 
         public IDbContextTransaction GetCurrentTransaction() => _currentTransaction;
 
