@@ -26,7 +26,7 @@ namespace FADY.Services.Employee.API.Controllers
             IIdentityService identityService,
             ILogger<EmployeeController> logger)
         {
-            _mediator = mediator;
+       
             _employeeQueries = employeeQueries ?? throw new ArgumentNullException(nameof(employeeQueries));
             _identityService = identityService ?? throw new ArgumentNullException(nameof(identityService));
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
@@ -60,7 +60,7 @@ namespace FADY.Services.Employee.API.Controllers
             var result = await _employeeQueries.GetEmployeeAsync(id);
             if (result == null)
             {
-                return BadRequest();
+                return NotFound();
             }
             return Ok(result);
 
@@ -69,9 +69,19 @@ namespace FADY.Services.Employee.API.Controllers
 
         // POST api/values
         [HttpPost]
-        public async Task<ActionResult> Post(CreateEmployeePermanentCommand employeeCommand)
+        [ProducesResponseType( (int)HttpStatusCode.OK)]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest)]
+        public async Task<ActionResult> PostAsync([FromBody] CreateEmployeePermanentCommand employeeCommand)
         {
-            return Ok(await _mediator.Send(employeeCommand));
+            bool commandResult = false;
+            commandResult =await _mediator.Send(employeeCommand);
+
+            if (!commandResult)
+            {
+                return BadRequest();
+            }
+
+            return Ok();
         }
 
 

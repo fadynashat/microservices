@@ -1,4 +1,5 @@
-﻿using FADY.Services.Employee.Dmoain.AggregatesModel.EmployeeAggregate;
+﻿using FADY.Services.Employee.API.Application.Commands;
+using FADY.Services.Employee.Dmoain.AggregatesModel.EmployeeAggregate;
 using Newtonsoft.Json;
 using System;
 using System.Net;
@@ -25,25 +26,26 @@ namespace FADY.Services.Employee.FunctionalTests
             }
         }
         [Fact]
-        public async Task Get_employee_by_id_and_response_bad_request_code()
+        public async Task Get_employee_by_id_and_response_not_found()
         {
             using (var server = CreateServer())
             {
                 var response = await server.CreateClient()
                     .GetAsync(Get.EmployeesById(-1));
 
-                response.EnsureSuccessStatusCode();
+                Assert.Equal(HttpStatusCode.NotFound, response.StatusCode);
             }
         }
+
         [Fact]
-        public async Task Post_employee_and_response_Not_found_code()
+        public async Task Get_employee_by_id_and_response_ok_request_code()
         {
             using (var server = CreateServer())
             {
                 var response = await server.CreateClient()
-                    .GetAsync(Get.EmployeesById(-1));
+                    .GetAsync(Get.EmployeesById(1));
 
-                response.EnsureSuccessStatusCode();
+                Assert.Equal(HttpStatusCode.OK, response.StatusCode);
             }
         }
         [Fact]
@@ -53,7 +55,7 @@ namespace FADY.Services.Employee.FunctionalTests
             {
                 var content = new StringContent(BuildbadEmployee(), UTF8Encoding.UTF8, "application/json");
                 var response = await server.CreateIdempotentClient()
-                    .PostAsync(Post.Employees, content);
+                    .PostAsync(PostAsync.Employees, content);
 
                 Assert.Equal(HttpStatusCode.BadRequest, response.StatusCode);
             }
@@ -63,11 +65,11 @@ namespace FADY.Services.Employee.FunctionalTests
         {
             using (var server = CreateServer())
             {
-                server.BaseAddress = new Uri("http://localhost:5003/");
-
+                var str = BuildgoodEmployee();
                 var content = new StringContent(BuildgoodEmployee(), UTF8Encoding.UTF8, "application/json");
+             
                 var response = await server.CreateIdempotentClient()
-                    .PostAsync(Post.Employees, content);
+                    .PostAsync(PostAsync.Employees, content);
 
                 Assert.Equal(HttpStatusCode.OK, response.StatusCode);
             }
@@ -85,10 +87,10 @@ namespace FADY.Services.Employee.FunctionalTests
             var _random = new Random();
             var identity = _random.Next(1, 10000000);
 
-            var name = "fady";
+            var name = "fadynashat";
             var address = new Address("el-shorta street", "assuit", "egypt");
  
-            var goodemp = new Employe(identity, name, address, "01208844875");
+            var goodemp = new CreateEmployeePermanentCommand(identity,  address, name, "01208844875");
             return JsonConvert.SerializeObject(goodemp);
         }
     }

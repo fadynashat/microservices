@@ -19,7 +19,7 @@ namespace FADY.Services.Employee.API.Application.Commands
 
         public CreateEmployeePermanentCommand()
         {
-         
+
         }
         public CreateEmployeePermanentCommand(int _empId)
         {

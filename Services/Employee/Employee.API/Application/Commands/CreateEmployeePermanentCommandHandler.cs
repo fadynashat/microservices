@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using FADY.Services.Employee.API.Application.IntegrationEvents;
 using Microsoft.Extensions.Logging;
 using FADY.Services.Employee.API.Application.IntegrationEvents.Events;
+using FADY.Services.Employee.API.Infrastructure.Services;
 
 namespace FADY.Services.Employee.API.Application.Commands
 {
@@ -17,18 +18,18 @@ namespace FADY.Services.Employee.API.Application.Commands
         private readonly IServiceProvider _serviceProvider;
         private readonly IMediator _mediator;
         private readonly IEmployeeIntegrationEventService _employeeIntegrationEventService;
-        // private readonly IIdentityService _identityService;
+         private readonly IIdentityService _identityService;
         private readonly ILogger<CreateEmployeePermanentCommandHandler> _logger;
 
             // Using DI to inject infrastructure persistence Repositories
             public CreateEmployeePermanentCommandHandler(IMediator mediator,
                 IEmployeeIntegrationEventService employeeIntegrationEventService,
                 IEmployeeRepository employeeRepository,
-              //  IIdentityService identityService,
+                IIdentityService identityService,
                 ILogger<CreateEmployeePermanentCommandHandler> logger)
             {
                  _Repository = employeeRepository ?? throw new ArgumentNullException(nameof(employeeRepository));
-               // _identityService = identityService ?? throw new ArgumentNullException(nameof(identityService));
+                 _identityService = identityService ?? throw new ArgumentNullException(nameof(identityService));
                 _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
                  _employeeIntegrationEventService = employeeIntegrationEventService ?? throw new ArgumentNullException(nameof(employeeIntegrationEventService));
                 _logger = logger ?? throw new ArgumentNullException(nameof(logger));

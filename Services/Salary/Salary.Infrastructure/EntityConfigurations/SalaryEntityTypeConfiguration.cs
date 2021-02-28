@@ -19,7 +19,7 @@ namespace FADY.Services.Salary.Infrastructure.EntityConfigurations
             EmpConfiguration.HasKey(o => o.Id);
 
 
-            EmpConfiguration.Property(o => o.Id).ForSqlServerUseSequenceHiLo("SalarySeq", SalaryContext.DEFAULT_SCHEMA);
+            //EmpConfiguration.Property(o => o.Id).("SalarySeq", SalaryContext.DEFAULT_SCHEMA);
 
             EmpConfiguration.Property(o => o.Sal).IsRequired();
 

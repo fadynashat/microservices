@@ -52,7 +52,7 @@ namespace FADY.Services.Employee.FunctionalTests
             public static string Employees = "api/Employee";
             public static string EmployeesById(int id) { return $"api/Employee/{id}";}
         }
-        public static class Post
+        public static class PostAsync
         {
       public static string Employees = "api/Employee";
      

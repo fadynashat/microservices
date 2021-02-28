@@ -24,7 +24,7 @@ namespace FADY.Services.Employee.API.Infrastructure.AutofacModules
        
 
             //// Register the DomainEventHandler classes (they implement INotificationHandler<>) in assembly holding the Domain Events
-            //builder.RegisterAssemblyTypes(typeof(ValidateOrAddBuyerAggregateWhenOrderStartedDomainEventHandler).GetTypeInfo().Assembly)
+            //builder.RegisterAssemblyTypes(typeof(xxxxxxxxDomainEventHandler).GetTypeInfo().Assembly)
             //    .AsClosedTypesOf(typeof(INotificationHandler<>));
 
             //// Register the Command's Validators (Validators based on FluentValidation library)

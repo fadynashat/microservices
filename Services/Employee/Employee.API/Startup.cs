@@ -33,7 +33,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using System.IdentityModel.Tokens.Jwt;
 using GrpcEmployee;
-
+using FADY.Services.Employee.API.Infrastructure.Services;
+using FADY.Services.Employee.API.Infrastructure.Auth;
 namespace FADY.Services.Employee.API
 {
 
@@ -263,7 +264,7 @@ namespace FADY.Services.Employee.API
                     }
                 });
 
-               // options.OperationFilter<AuthorizeCheckOperationFilter>();
+                options.OperationFilter<AuthorizeCheckOperationFilter>();
             });
 
             return services;
@@ -271,7 +272,9 @@ namespace FADY.Services.Employee.API
 
         public static IServiceCollection AddCustomIntegrations(this IServiceCollection services, IConfiguration configuration)
         {
-            
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddTransient<IIdentityService, IdentityService>();
+
             services.AddTransient<Func<DbConnection, IIntegrationEventLogService>>(
                 sp => (DbConnection c) => new IntegrationEventLogService(c));
 

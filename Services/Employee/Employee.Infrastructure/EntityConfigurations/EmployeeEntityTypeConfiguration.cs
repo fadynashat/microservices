@@ -31,6 +31,8 @@ namespace FADY.Services.Employee.Infrastructure.EntityConfigurations
             EmpConfiguration.Property(o => o.Name).HasMaxLength(100);
             EmpConfiguration.Property(o => o.Phone).IsRequired();
            
+
+
         }
 
 

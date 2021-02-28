@@ -44,8 +44,8 @@ namespace FADY.Services.Employee.API.Application.Queries
                         , new { id }
                         );
 
-                if (result.AsList().Count == 0)
-                    throw new KeyNotFoundException();
+                if (result.Count==0)
+                    return null;
 
               
             }

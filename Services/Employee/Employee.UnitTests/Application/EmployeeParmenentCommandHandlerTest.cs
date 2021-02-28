@@ -54,7 +54,7 @@ namespace UnitTest.Employee.Application
 
         private CreateEmployeePermanentCommand FakeEmployeeParmenentCommand(Dictionary<string, object> args = null)
         {
-            return new CreateEmployeePermanentCommand();
+            return new CreateEmployeePermanentCommand(1,new Address("street", "city", "country"), "fakeName", "01208844875");
                
         }
     }
